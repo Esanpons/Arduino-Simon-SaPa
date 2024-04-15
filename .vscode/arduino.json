@@ -1,5 +1,5 @@
 {
-    "sketch": "PonerElNombreAqui.ino",
+    "sketch": "ArduinoSimonSaPa.ino",
     "output": "build",
     "board": "arduino:avr:nano",
     "port": "COM5",
