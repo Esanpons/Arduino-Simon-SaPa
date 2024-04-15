@@ -1,0 +1,7 @@
+{
+    "sketch": "PonerElNombreAqui.ino",
+    "output": "build",
+    "board": "arduino:avr:nano",
+    "port": "COM5",
+    "configuration": "cpu=atmega328old"
+}
