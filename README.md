@@ -1,2 +1,1 @@
-# Arduino-Template
-Plantilla de Arduino
+# Juego de Simon para la placa de arduino
